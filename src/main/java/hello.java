@@ -4,6 +4,5 @@ class Hello
 	{
 		System.out.println("Hello World!");
 		int c=10;
-		int b=20;
 	}
 }
